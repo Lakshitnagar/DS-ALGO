@@ -14,8 +14,22 @@ public class S1 {
         linkedList.insert(1);
         linkedList.insert(2);
         linkedList.insert(3);
+        linkedList.insert(4);
+        linkedList.insert(5);
+        linkedList.insert(6);
 
         // Printing data
+        System.out.println("--- START ---");
         linkedList.printLinkedList();
+        System.out.println("--- END ---");
+
+        linkedList.delete(1);
+        linkedList.delete(4);
+        linkedList.delete(6);
+
+        // Printing data
+        System.out.println("--- START ---");
+        linkedList.printLinkedList();
+        System.out.println("--- END ---");
     }
 }
