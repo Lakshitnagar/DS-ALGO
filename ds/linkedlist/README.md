@@ -1,6 +1,6 @@
 # Linked List
-Here I have listed all the popular questions on linked lists with there solution in Java.
+Here is the list of all the popular questions on linked lists with there possible solutions in Java.
 
 ## Questions
-00 - Implement Singly Linked List using Java class\
-P1 - Create, Insert, Delete and Print linked list.
+[00](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/LinkedList.java) - Implement Singly Linked List using Java class\
+[P1](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p1) - Create, Insert, Delete and Print linked list.
