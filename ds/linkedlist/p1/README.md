@@ -2,7 +2,7 @@
 Create a linked list and add some data to it. After inserting the data, try to delete first, middle and last nodes of the list.
 While doing these operations print the whole list after each operations.
 
-## S1 - Solution 1
+## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/p1/S1.java) - Solution 1
 1. Create a list linked list ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/LinkedList.java)).
 2. Insert 7 elements on to the linked list.
 3. Print whole list.
