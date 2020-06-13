@@ -23,3 +23,10 @@ While doing these operations print the whole list after each operations.
 5
 6
 ```
+
+### Complexity
+
+|               | Insertion     | Deletion      | Print         |
+| ------------- | ------------- | ------------- | ------------- |
+| Time          | O(1)          | O(n)          | O(n)          |
+| Space         | O(1)          | -             | O(1)          |
