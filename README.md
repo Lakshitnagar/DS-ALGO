@@ -1,6 +1,6 @@
 # DS-ALGO
 This repository divided into two parts:\
-**DS (Data Structures)** - Ground level implementation of popular data struture in JAVA (eg. Linked List).\
+**[DS (Data Structures)](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/)** - Ground level implementation of popular data struture in JAVA (eg. Linked List).\
 **ALGO (Algorithms)** - A very good set of algorithm problems solved in JAVA.
 
 ## Pre-Requisite
