@@ -3,7 +3,7 @@ package ds.linkedlist;
 public class LinkedList {
 
     // default head to be null
-    LinkedListNode head;
+    public LinkedListNode head;
 
     // function to insert data in to linked list
     // Using this for the instance which call this function
@@ -68,9 +68,9 @@ public class LinkedList {
         }
     }
 
-    class LinkedListNode {
-        int data;
-        LinkedListNode next;
+    public class LinkedListNode {
+        public int data;
+        public LinkedListNode next;
 
         LinkedListNode(int d) {
             data = d;
