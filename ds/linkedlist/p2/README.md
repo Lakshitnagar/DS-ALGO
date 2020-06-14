@@ -15,7 +15,8 @@ Given a linked list and `data` to find, traverse the linked list and print the p
 7
 ```
 4. Traverse the linked list until `data` is found or reached end.
-5. Print the position of `data` if found else print "Not Found".\
+5. Print the position of `data` if found else print "Not Found".
+
 <b>Input</b> : 4
 ```
 3
