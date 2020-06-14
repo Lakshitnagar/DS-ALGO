@@ -25,5 +25,30 @@ Linked list is short
 
 |               | Find an element     |
 | ------------- | ------------------- |
-| Time          | O(n<sup>2</sup>)                |
+| Time          | O(n<sup>2</sup>)    |
+| Space         | O(1)                |
+
+## [S2](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/p4/S2.java) - Solution 1 (Pointer Difference Approach)
+1. Create a list linked list ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/LinkedList.java)).
+2. Insert 7 elements on to the linked list.
+3. Start with `startNode` and `currNode` as head.
+4. Move only `currNode` n times.
+5. If `currNode` is null before n moves, then linked list is not big enough, we can terminate the program..
+6. Else now move both `startNode` and `currNode` simultaneously, until `currNode.next` is null.
+7. Now `startNode` is what we are looking for. Print the data and terminate the program.
+
+<b>Input</b> : 2
+```
+6
+```
+<b>Input</b> : 8
+```
+Linked list is short
+```
+
+### Complexity
+
+|               | Find an element     |
+| ------------- | ------------------- |
+| Time          | O(n)                |
 | Space         | O(1)                |
