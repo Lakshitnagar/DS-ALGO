@@ -9,7 +9,7 @@ Given a linked list, traverse the linked list and print data at `nth` position.
 
 <b>Input</b> : 4
 ```
-5
+4
 ```
 <b>Input</b> : 8
 ```

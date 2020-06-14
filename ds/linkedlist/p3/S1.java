@@ -24,7 +24,7 @@ public class S1 {
         int n = 4;
 
         LinkedList.LinkedListNode currNode = linkedList.head;
-        int count = 0;
+        int count = 1;
 
         if (n < 0) return;
 
