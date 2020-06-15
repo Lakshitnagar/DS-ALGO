@@ -42,10 +42,11 @@ public class S1 {
                     }
                 }
 
-                break;
+                return;
             }
         }
 
+        System.out.println("NO");
         return;
     }
 

@@ -8,7 +8,7 @@ Given a linked list, check if it is cyclic, if yes then find the linking point.
 4. Iterate `slowNode` by 1 step and `fastNode` by 2 steps.
 5. If linked list is not cyclic then `fastNode` would end with null, else both nodes will meet.
 6. If they meet then, reset one of the node to head and iterate both by 1 step until they again meet.
-6. The point where they again meet the linking point.
+6. The point where they again meet is the linking point.
 
 <b>Input</b> : If linked list is cyclic (at position 3)
 ```
