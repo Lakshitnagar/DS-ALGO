@@ -9,4 +9,4 @@ Here is the list of all the popular questions on linked lists with there possibl
 [P4](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p4) - Print data at nth position from last.\
 [P5](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p5) - Check if given linked list is cyclic.\
 [P6](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p6) - Find the starting point of cycle if the given linked list is cyclic.\
-[P7](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p6) - Find the merge point of two linked lists.
+[P7](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p7) - Find the merge point of two linked lists.
