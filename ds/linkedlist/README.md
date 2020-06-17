@@ -10,4 +10,5 @@ Here is the list of all the popular questions on linked lists with there possibl
 [P5](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p5) - Check if given linked list is cyclic.\
 [P6](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p6) - Find the starting point of cycle if the given linked list is cyclic.\
 [P7](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p7) - Find the merge point of two linked lists.\
-[P8](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p8) - Find middle node in a linked list.
+[P8](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p8) - Find middle node in a linked list.\
+[P9](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p9) - Reverse the whole linked list.

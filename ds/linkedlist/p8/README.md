@@ -1,7 +1,7 @@
-# P7 - Problem Statement
+# P8 - Problem Statement
 Given a linked list, find mid point of the linked list.
 
-## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/p7/S1.java) - Solution 1 (Slow and Fast Nodes)
+## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/p8/S1.java) - Solution 1 (Slow and Fast Nodes)
 1. Create a linked list ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/LinkedList.java)).
 2. Insert 11 elements in the linked list.
 3. Start with `slowNode` and `fastNode` as head.
@@ -18,5 +18,5 @@ Given a linked list, find mid point of the linked list.
 
 |               | Find an element     |
 | ------------- | ------------------- |
-| Time          | O(n)                |
+| Time          | O(n+m)              |
 | Space         | O(1)                |
