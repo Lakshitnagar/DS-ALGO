@@ -38,6 +38,85 @@ So for final step, `currNode.next` = `prevNode` and `linkedList.head` = `currNod
  1
 ```
 
+## [S2](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/p9/S2.java) - Solution 2 (Recursive)
+1. Create a linked list ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/LinkedList.java)).
+2. Insert 7 elements in the linked list.
+3. Recursively reach the end of the linked list. This will create a call stack.
+```
+ NULL
+  ^
+| 7 |  -  node1 = recursion(node)
+  ^
+| 6 |  -  node
+  ^
+| 5 |
+  ^
+| 4 |
+  ^
+| 3 |
+  ^
+| 2 |
+  ^
+| 1 |
+```
+In above step, the recursion call must return node next to the node currently in called function.
+5. Before tracking back change the head to the last node. For this you must pass linked list to the recursion function.
+6. While tracing back, assign `node` as next of `node1`, and `NULL` as next of `node`. This will create something like below:
+```
+| 7 |            -  node1 = recursion(node)
+ \,/
+| 6 |->NULL      -  node
+  ^
+| 5 |
+  ^
+| 4 |
+  ^
+| 3 |
+  ^
+| 2 |
+  ^
+| 1 |
+```
+7. Now, return `node` as result of recursion function. So now list can be visualize as below.
+```
+| 7 |            
+ \,/
+| 6 |->NULL      -  node1 = recursion(node)
+  ^
+| 5 |            -  node
+  ^
+| 4 |
+  ^
+| 3 |
+  ^
+| 2 |
+  ^
+| 1 |
+```
+8. Repeat above for all nodes.
+
+<b>Input</b> : LinkedList
+```
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+```
+
+<b>Output</b> : LinkedList
+```
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+```
+
 ### Complexity
 
 |               | Find an element     |
