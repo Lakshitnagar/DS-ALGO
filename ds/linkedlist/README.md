@@ -13,4 +13,5 @@ Here is the list of all the popular questions on linked lists with there possibl
 [P8](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p8) - Find middle node in a linked list.\
 [P9](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p9) - Reverse the whole linked list.\
 [P10](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p10) - Reverse a linked list in a pair.\
-[P11](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p11) - Reverse group of `k` nodes in a linked list.
+[P11](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p11) - Reverse group of `k` nodes in a linked list.\
+[P12](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/linkedlist/p12) - Find rank 1 node in Josephus Circle.

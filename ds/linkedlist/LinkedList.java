@@ -4,6 +4,7 @@ public class LinkedList {
 
     // default head to be null
     public LinkedListNode head;
+    public int length = 0;
 
     // function to insert data in to linked list
     // Using this for the instance which call this function
@@ -21,6 +22,8 @@ public class LinkedList {
 
             last.next = node;
         }
+
+        length++;
     }
 
     public void delete(int d) {
