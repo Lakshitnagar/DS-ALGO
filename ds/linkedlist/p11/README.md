@@ -35,5 +35,5 @@ Given a linked list, reverse it's elements in group of `k` elements.
 
 |               | Find an element     |
 | ------------- | ------------------- |
-| Time          | O(n)              |
+| Time          | O(n*k)              |
 | Space         | O(1)                |
