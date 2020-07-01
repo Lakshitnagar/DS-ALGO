@@ -42,8 +42,8 @@ public class Stack {
     }
 
     public class StackNode {
-        int data;
-        StackNode next;
+        public int data;
+        public StackNode next;
 
         public StackNode(int data) {
             this.data = data;
