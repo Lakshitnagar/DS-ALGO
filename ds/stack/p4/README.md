@@ -21,7 +21,7 @@ We will use stack to memoize the result (the indices) of previous element.
 
 ### Complexity
 
-|               | Symbol balanced |
+|               | Array span      |
 | ------------- | --------------- |
 | Time          | O(n)            |
 | Space         | O(n)            |

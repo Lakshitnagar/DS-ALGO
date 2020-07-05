@@ -26,7 +26,7 @@ Reverse a stack. Keeping in mind stack we don't know how stack is been implement
 
 ### Complexity
 
-|               | Symbol balanced |
+|               | Reverse stack   |
 | ------------- | --------------- |
-| Time          | O(n<sup>2</sup>)            |
+| Time          | O(n<sup>2</sup>)|
 | Space         | O(n)            |
