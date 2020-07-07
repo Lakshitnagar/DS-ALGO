@@ -6,4 +6,5 @@ The stack structure is achieved by using linked list at it's core.
 [P1](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/stack/p1) - Create, Push, Pop and Print stack.\
 [P2](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/stack/p2) - Check if symbols are balanced in a string.\
 [P3](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/stack/p3) - Reverse a stack (only push and pop).\
-[P4](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/stack/p4) - Find array spans (Stock market problem).
+[P4](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/stack/p4) - Find array spans (Stock market problem).\
+[P5](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/stack/p5) - Property of increasing stack.
