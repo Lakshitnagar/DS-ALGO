@@ -1,5 +1,5 @@
 # P5 - Problem Statement
-<b>Increasing stack</b> : A stack whose next push value always greater than the top value.\
+<b>Increasing stack</b> : A stack whose next push value always greater than the top value.
 
 Verify the below property of increasing stack.\
 <b>Property</b> : <i>For an array, increasing stack can keep track of the first smaller on its left and right?</i>
