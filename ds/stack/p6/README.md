@@ -18,7 +18,7 @@ note: -1 indicates index of left out of bound and 6 indicates index of right out
 
 ### Complexity
 
-|               | Increasing stack|
+|               | Maximum Area    |
 | ------------- | --------------- |
 | Time          | O(n)            |
 | Space         | O(n)            |
