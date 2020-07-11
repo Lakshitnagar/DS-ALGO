@@ -5,7 +5,7 @@ This is a very common problem in stock markets to find the peaks.
 
 ## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/stack/p4/S1.java) - Solution 1 (Using Stack)
 We will use stack to memoize the result (the indices) of previous element.
-1. Create a stack ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/stack/stack.java)) and initialize it with 0.
+1. Create a stack ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/stack/Stack.java)) and initialize it with 0.
 2. Initialize result array S with S[0] = 1 because span value of first element is always 1.
 3. Iterate through array A.
 4. Empty the stack till element at position given by stack's top is greater than element in current iteration.

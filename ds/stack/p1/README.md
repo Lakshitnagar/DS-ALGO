@@ -3,7 +3,7 @@ Create a stack and push some data to it. After pushing the data, try to pop firs
 While doing these operations print the whole stack after each operations.
 
 ## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/stack/p1/S1.java) - Solution 1
-1. Create a stack ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/stack/stack.java)).
+1. Create a stack ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/stack/Stack.java)).
 2. Push 7 elements on to the stack.
 3. Print whole list.
 ```

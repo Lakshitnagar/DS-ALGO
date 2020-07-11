@@ -2,7 +2,7 @@
 Given a string containing symbols (`(,),{,},[,]`), check whether the symbols are balanced.
 
 ## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/stack/p2/S1.java) - Solution 1
-1. Create an empty stack ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/stack/stack.java)).
+1. Create an empty stack ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/stack/Stack.java)).
 2. Iterate through the string literals and repeat steps #3 to .
 3. If it is not a symbol, ignore it.
 4. If opening symbol, push it to the stack.
