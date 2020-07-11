@@ -14,4 +14,5 @@ The Queue structure is achieved by using linked list at it's core.
 * Linked List (most used implementation)
 
 ## Questions
-[00](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/queue/Queue.java) - Implement queue using java class.
+[00](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/queue/Queue.java) - Implement queue using java class.\
+[P1](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/queue/p1) - Create, Enqueue, Dequeue and Print queue.
