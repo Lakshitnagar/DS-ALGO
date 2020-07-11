@@ -1,5 +1,11 @@
 # Linked List
 Here is the list of all the popular questions on linked lists with there possible solutions in Java.
+##### Application
+1. Hash tables.
+2. Memory efficient systems.
+3. Josephes Circle problem.
+##### Implementation
+* Class or Structures.  
 
 ## Questions
 [00](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/LinkedList.java) - Implement Singly Linked List using Java class\
