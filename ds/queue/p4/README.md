@@ -2,7 +2,7 @@
 Create a stack using two queues. Just need to perform push and pop.
 
 ## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/queue/p4/S1.java) - Solution 1
-1. Create 2 queues ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/stack/Stack.java)), `q1` and `q2`.
+1. Create 2 queues ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/queue/Queue.java)), `q1` and `q2`.
 
 (Make sure either of `q1` and `q2` must always empty)
 
