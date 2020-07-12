@@ -3,6 +3,7 @@ package ds.queue;
 public class Queue {
     public QueueNode front;
     public QueueNode rear;
+    public int size = 0;
 
     public void enqueue(int data){
         QueueNode newNode = new QueueNode(data);
@@ -14,6 +15,8 @@ public class Queue {
             rear.next = newNode;
             rear = newNode;
         }
+
+        size++;
     }
 
     public QueueNode dequeue(){
@@ -23,6 +26,8 @@ public class Queue {
         front = front.next;
 
         if(front==null) rear = null;
+
+        size--;
 
         return dataNode;
     }
