@@ -10,3 +10,6 @@ Stack is a CD-holder like structure in which pushing the data creates a pile or 
 
 ## [Queue](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/queue)
 Queue follow first come first serve policy, FIFO. Retrieving is restricted to first element pushed.
+
+## [Generic Tree](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/genericTree)
+Same as linked list, but instead of one child it can have any number of children.
