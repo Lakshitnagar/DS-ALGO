@@ -1,17 +1,21 @@
 package ds.genericTree;
 
 public class GenericTree {
-    public GenericTree root;
+    public GenericTreeNode root;
 
-    public class GenericTreeNode {
-        int data;
-        GenericTree firstChild;
-        GenericTree nextSibling;
+    public static class GenericTreeNode {
+        public int data;
+        public GenericTreeNode firstChild;
+        public GenericTreeNode nextSibling;
 
-        GenericTree(int data) {
+        public GenericTreeNode(int data) {
             this.data = data;
             this.firstChild = null;
             this.nextSibling = null;
         }
+    }
+
+    public static GenericTreeNode createNode(int data){
+        return new GenericTreeNode(data);
     }
 }

@@ -18,3 +18,5 @@ So it degenerates to Binary Tree.
 * Linked List (most used implementation)
 
 ## Questions
+[00](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/genericTree/GenericTree.java) - Implement GenericTree using Java class.\
+[p1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/genericTree/p1) - Create a generic tree with some data.
