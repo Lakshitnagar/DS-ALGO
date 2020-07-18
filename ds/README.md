@@ -13,3 +13,6 @@ Queue follow first come first serve policy, FIFO. Retrieving is restricted to fi
 
 ## [Generic Tree](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/genericTree)
 Same as linked list, but instead of one child it can have any number of children.
+
+## [Binary Tree](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/binaryTree)
+Same as linked list, but instead of one child it can have max of two children.
