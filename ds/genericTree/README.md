@@ -19,4 +19,5 @@ So it degenerates to Binary Tree.
 
 ## Questions
 [00](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/genericTree/GenericTree.java) - Implement GenericTree using Java class.\
-[p1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/genericTree/p1) - Create a generic tree with some data.
+[p1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/genericTree/p1) - Create a generic tree with some data.\
+[p2](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/genericTree/p2) - Find sum of all nodes.
