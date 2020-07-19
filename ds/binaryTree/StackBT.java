@@ -38,7 +38,7 @@ public class StackBT {
         StackBTNode currNode = top;
 
         while (currNode != null) {
-            System.out.println(currNode.data);
+            System.out.println(currNode.data.data);
             currNode = currNode.next;
         }
     }
