@@ -24,6 +24,8 @@ public class S2 {
 
             BinaryTree.BinaryTreeNode currNode = stack.top.data;
 
+            /* go down the tree in search of a leaf an if so process it
+            and pop stack otherwise move down */
             if (prevNode == null || prevNode.left == currNode || prevNode.right == currNode) {
 
                 if (currNode.left != null) {
@@ -38,9 +40,14 @@ public class S2 {
                     stack.pop();
                     System.out.println(currNode.data);
                 }
+
+                /* go up the tree from left node, if the child is right
+                   push it onto stack otherwise process parent and pop
+                   stack */
+
             } else if (currNode.left == prevNode) {
 
-                if(currNode.right!=null){
+                if (currNode.right != null) {
 
                     stack.push(currNode.right);
 
@@ -48,7 +55,11 @@ public class S2 {
                     stack.pop();
                     System.out.println(currNode.data);
                 }
-            } else if (currNode.right == prevNode){
+
+                /* go up the tree from right node and after coming back
+                 from right node process parent and pop stack */
+
+            } else if (currNode.right == prevNode) {
                 stack.pop();
                 System.out.println(currNode.data);
             }
