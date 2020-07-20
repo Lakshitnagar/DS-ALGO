@@ -17,4 +17,5 @@ Binary tree is like a linked list but with max two possible branches.
 [p1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p1) - Pre-Order traversal.\
 [p2](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p2) - In-Order traversal.\
 [p3](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p3) - Post-Order traversal.\
-[p4](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p4) - Level-Order traversal.
+[p4](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p4) - Level-Order traversal.\
+[p5](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p5) - Maximum element in BT.
