@@ -11,7 +11,7 @@ To traverse in level, we need queue and to reverse it we need stack.
 
 Important note:
 - Enqueuing right child first, reverses the level order horizontally.
-- Pushing to stack instead of processing it, reverses the level order vertically. 
+- Pushing to stack instead of processing it, reverses the level order both horizontally and vertically. 
 
 ### Complexity
 
