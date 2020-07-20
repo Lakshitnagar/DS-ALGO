@@ -19,4 +19,5 @@ Binary tree is like a linked list but with max two possible branches.
 [p3](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p3) - Post-Order traversal.\
 [p4](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p4) - Level-Order traversal.\
 [p5](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p5) - Maximum element in BT.\
-[p6](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p6) - Search an element in a BT.
+[p6](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p6) - Search an element in a BT.\
+[p7](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p7) - Insert an element.
