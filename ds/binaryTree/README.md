@@ -25,4 +25,5 @@ Binary tree is like a linked list but with max two possible branches.
 [p9](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p9) - Reverse Level-Order traversal.\
 [p10](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p10) - Height of a BT.\
 [p11](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p11) - Deepest node in BT.\
-[p12](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p12) - Delete a node in BT.
+[p12](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p12) - Delete a node in BT.\
+[p13](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p13) - Identical tree.
