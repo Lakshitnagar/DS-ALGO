@@ -29,4 +29,5 @@ Binary tree is like a linked list but with max two possible branches.
 [p13](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p13) - Identical tree.\
 [p14](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p14) - Diameter of a BT.\
 [p15](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p15) - Print root to leaf path.\
-[p16](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p16) - Path of given sum.
+[p16](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p16) - Path of given sum.\
+[p17](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p17) - Create mirror of BT.
