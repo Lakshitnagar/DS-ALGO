@@ -15,3 +15,15 @@ The idea is to first reach the node and then while tracking back fill the path a
 | ------------- | ------------- |
 | Time          | O(n)          |
 | Space         | O(n)          |
+
+## [S2](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p18/S1.java) - Solution 2 (Iterative)
+The idea is to do pre-order traversal and keep track of root to processing node path. For this we pop from stack only when left and right child of a node is processed.
+1. In addition to pre-order, push one null if only left child is processed, push two nulls if both children processed. 
+2. Move to right child if left is processed.
+
+### Complexity
+
+|               | Traversal     |
+| ------------- | ------------- |
+| Time          | O(n)          |
+| Space         | O(n)          |
