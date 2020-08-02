@@ -1,4 +1,4 @@
-# P9 - Problem Statement
+# P20 - Problem Statement
 Given a binary tree, traverse in level order in zigzag manner.
 
 ## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p20/S1.java) - Solution 1 (Iterative)
