@@ -1,4 +1,4 @@
-# P8 - Problem Statement
+# P10 - Problem Statement
 Given a binary tree, find height of the tree.
 
 ## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p10/S1.java) - Solution 1 (Recursive)
