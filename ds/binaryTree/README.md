@@ -35,4 +35,5 @@ Binary tree is like a linked list but with max two possible branches.
 [p19](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p19) - Least common Ancestor.\
 [p20](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p20) - Zigzag level traversal.\
 [p21](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p21) - Max width of a BT.\
-[p22](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p22) - Calculate horizontal distance of all nodes w.r.t. the root.
+[p22](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p22) - Calculate horizontal distance of all nodes w.r.t. the root.\
+[p23](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binaryTree/p23) - Vertical sums of a BT.
