@@ -58,8 +58,6 @@ public class S2 {
                 stack.push(null);
                 stack.push(null);
             }
-
-
         }
 
         StackBT stack2 = new StackBT();
@@ -70,8 +68,6 @@ public class S2 {
                 stack2.push(currNode);
             }
         }
-
-        stack2.printStackBT();
 
         while (!stack2.isEmpty()) {
             currNode = stack2.pop().data;
