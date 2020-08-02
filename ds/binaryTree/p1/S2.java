@@ -16,7 +16,6 @@ public class S2 {
 
     public static void preOrderIterative(BinaryTree.BinaryTreeNode root){
         StackBT stack = new StackBT();
-        int start = 0;
 
         while (true){
 
