@@ -16,3 +16,6 @@ Same as linked list, but instead of one child it can have any number of children
 
 ## [Binary Tree](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/binaryTree)
 Same as linked list, but instead of one child it can have max of two children.
+
+## [Binary Search Tree](https://github.com/Lakshitnagar/DS-ALGO/tree/master/ds/binarySearchTree)
+Same as Binary Tree, but with node placement constraint.
