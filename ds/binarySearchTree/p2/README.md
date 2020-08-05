@@ -19,9 +19,9 @@ _Note: Disadvantage of this is that it updates all the nodes it encounters._
 ## [S2](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/p2/S2.java) - Solution 2 (Iterative)
 1. Start a while loop and continue until reach at leaves.
 2. If root value matches return immediately.
-3. Depending on root value move to either left or right subtree.
-    a. If it is left subtree and it is null assign new node here and return.
-    a. If it is right subtree and it is null assign new node here and return.
+3. Depending on root value move to either left or right subtree.\
+    a. If it is left subtree and it is null assign new node here and return.\
+    b. If it is right subtree and it is null assign new node here and return.
 
 ### Complexity
 
