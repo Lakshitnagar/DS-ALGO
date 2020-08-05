@@ -23,6 +23,14 @@ public class BinarySearchTree {
         // Creation of Binary Tree
         BinarySearchTree binarySearchTree = new BinarySearchTree();
 
+        BinarySearchTreeNode node1 = createNode(1);
+        BinarySearchTreeNode node2 = createNode(2);
+        BinarySearchTreeNode node3 = createNode(3);
+
+        binarySearchTree.root = node2;
+        binarySearchTree.root.left = node1;
+        binarySearchTree.root.right = node3;
+
         return binarySearchTree;
     }
 }

@@ -11,12 +11,11 @@ public class S2 {
         // Creation of binary tree
         BinaryTree binaryTree = BinaryTree.createCustomTree();
 
-        preOrderIterative(binaryTree.root);
+        inOrderIterative(binaryTree.root);
     }
 
-    public static void preOrderIterative(BinaryTree.BinaryTreeNode root){
+    public static void inOrderIterative(BinaryTree.BinaryTreeNode root){
         StackBT stack = new StackBT();
-        int start = 0;
 
         while (true){
 

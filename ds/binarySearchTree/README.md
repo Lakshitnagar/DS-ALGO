@@ -17,3 +17,4 @@ Binary Search Tree is like a Binary Tree but with following restriction:
 
 ## Questions
 [00](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/BinarySearchTree.java) - Implement BinarySearchTree using Java class.\
+[p1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/p1) - Print BST in sorted order.\
