@@ -32,7 +32,7 @@
 | Time          | O(N*M)              |
 | Space         | O(1)                |
 
-## [S2](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/p12/S1.java) - Solution 1 (Recursive)
+## [S2](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/p12/S2.java) - Solution 2 (Recursive)
 1. Create a linked list ([using previous problem](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/linkedlist/LinkedList.java)).
 2. Insert 7 elements in the linked list. And make it circular.
 ```
