@@ -60,8 +60,9 @@ So for final step, `currNode.next` = `prevNode` and `linkedList.head` = `currNod
 | 1 |
 ```
 In above step, the recursion call must return node next to the node currently in called function.
-5. Before tracking back change the head to the last node. For this you must pass linked list to the recursion function.
-6. While tracing back, assign `node` as next of `node1`, and `NULL` as next of `node`. This will create something like below:
+
+4. Before tracking back change the head to the last node. For this you must pass linked list to the recursion function.
+5. While tracing back, assign `node` as next of `node1`, and `NULL` as next of `node`. This will create something like below:
 ```
 | 7 |            -  node1 = recursion(node)
  \,/
