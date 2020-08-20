@@ -2,6 +2,9 @@
 Print the BST nodes in sorted order.
 
 Traversing a BST in "in-order" prints elements in sorted order.
+
+Note: For a node In-Order is the predecessor is the max element in the left subtree and successor is the min element in the right subtree.
+
 ## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/p1/S1.java) - Solution 1 (Recursive)
 1. In a recursion, keep a null check.
 2. Recursively call for left subtree.
