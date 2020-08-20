@@ -24,4 +24,5 @@ Binary Search Tree is like a Binary Tree but with following restriction:
 [00](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/BinarySearchTree.java) - Implement BinarySearchTree using Java class.\
 [p1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/p1) - Print BST in sorted order.\
 [p2](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/p2) - Insert an element in BST.\
-[p3](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/p3) - Find min and max elements in a BST.
+[p3](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/p3) - Find min and max elements in a BST.\
+[p4](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/p4) - Find an element in a BST.

@@ -1,4 +1,4 @@
-# P1 - Problem Statement
+# P2 - Problem Statement
 Given a BST insert an element in it.
 
 ## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/p2/S1.java) - Solution 1 (Recursive)

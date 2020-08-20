@@ -1,4 +1,4 @@
-# P1 - Problem Statement
+# P3 - Problem Statement
 Given a BST find min and max elements in it.
 
 ## [S1](https://github.com/Lakshitnagar/DS-ALGO/blob/master/ds/binarySearchTree/p3/S1.java) - Solution 1 (Recursive)
